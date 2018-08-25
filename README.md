@@ -1,0 +1,1 @@
+# bo-configuration-resources
